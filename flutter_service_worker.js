@@ -4,11 +4,11 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "assets/AssetManifest.json": "2a23c66fc062ac5925ee2908ef25aa16",
-"assets/assets/images/dp.jpg": "0b5329132b177d6bec196178c74dd676",
+"assets/assets/images/dp.jpg": "1db9bc58812af57a60901d8f5b77cd3c",
 "assets/assets/images/github.png": "ec3a60c8c6539a07eb70b52f6737ea6e",
-"assets/assets/images/insta.png": "18a6443f79f1dc89ad9c30eb057f6007",
+"assets/assets/images/insta.png": "7ca083a2b85b8c8f3886117b3751425d",
 "assets/assets/images/mail.png": "72d870221117e2b5ada4356e092341a3",
-"assets/assets/images/whatsapp.png": "2b5545f8e364a15baae77a3e9ca51bf6",
+"assets/assets/images/whatsapp.png": "2ef3d2ff523f37c5ae8ed9f79dfb8a3f",
 "assets/FontManifest.json": "745478d2973c3fd2d8febc1b1422d240",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
 "assets/fonts/Montserrat-Bold.ttf": "ade91f473255991f410f61857696434b",
@@ -20,7 +20,7 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "index.html": "a2e97617ca03fc52799356f13c38a372",
 "/": "a2e97617ca03fc52799356f13c38a372",
-"main.dart.js": "5921e1f99206dd74e7a1f2dd78a0b14e",
+"main.dart.js": "537a7acdfd90f86a1a5b42d5d39c90eb",
 "manifest.json": "514ea445bba3c4e28d982ddf8451be76",
 "version.json": "8fec7422cd1a3aceb58c4ac51bc3c76a"
 };
